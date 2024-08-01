@@ -1,5 +1,5 @@
 Hi im Sayon. 
-Just edited the whole repository..
+Just forked the repo
 
 ## Vue 2 has reached End of Life
 
